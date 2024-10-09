@@ -69,8 +69,7 @@ Custom-Face-Detection-with-CNNs/
 │   └── ...
 
 ├── Custom_Face_Detection_with_CNNs.ipynb  
-├── requirements.txt                       
-├── README.md                               
-└── face_detection_cnn.h5                   
+├── requirements.txt                                                    
+└── README.md                    
 
       
